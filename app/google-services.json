@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "206845333265",
+    "firebase_url": "https://fir-remoteconfig-6b581.firebaseio.com",
+    "project_id": "fir-remoteconfig-6b581",
+    "storage_bucket": "fir-remoteconfig-6b581.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206845333265:android:d916dd37c4bbb691",
+        "android_client_info": {
+          "package_name": "reign.com.firebaseremoteconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206845333265-1kndbg35knqejq7g0a2a602ijs7jil5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "reign.com.firebaseremoteconfig",
+            "certificate_hash": "1a0b8a5a282e96f25fa90b3b869be8d64b3005f3"
+          }
+        },
+        {
+          "client_id": "206845333265-1l3ktdcm5rkb4t02ugr6t63jbqobv1cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHiFSl2HUwlAD57dp89Z13MzRow7CVmXE"
+        },
+        {
+          "current_key": "AIzaSyDHiFSl2HUwlAD57dp89Z13MzRow7CVmXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206845333265-1l3ktdcm5rkb4t02ugr6t63jbqobv1cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
